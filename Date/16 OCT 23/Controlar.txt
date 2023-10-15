@@ -1,0 +1,30 @@
+Here is a list of the latest server controller part numbers for HPE, Dell, IBM, and Lenovo:
+
+HPE
+
+HPE Smart Array P5820D: 871768-B21
+HPE Smart Array P5800D: 871767-B21
+HPE Smart Array P4420D: 871766-B21
+HPE Smart Array P4400D: 871765-B21
+HPE Smart Array P2220D: 871764-B21
+Dell
+
+Dell PERC H840P: 689191-B21
+Dell PERC H755P: 689189-B21
+Dell PERC H750P: 689188-B21
+Dell PERC H740P: 689187-B21
+Dell PERC H730P: 689186-B21
+IBM
+
+IBM ServeRAID M1200e: 9125-26H
+IBM ServeRAID M1015e: 9125-25H
+IBM ServeRAID M1005e: 9125-24H
+IBM ServeRAID BR1200e: 9125-27H
+IBM ServeRAID BR1015e: 9125-26H
+Lenovo
+
+Lenovo ThinkSystem RAID 930-8i: 7X60E08707
+Lenovo ThinkSystem RAID 920-8i: 7X60C08711
+Lenovo ThinkSystem RAID 920-4i: 7X60C08709
+Lenovo ThinkSystem RAID 530-8i: 7X60E08703
+Lenovo ThinkSystem RAID 530-4i: 7X60C08705
